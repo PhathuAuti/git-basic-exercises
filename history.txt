@@ -1,0 +1,1000 @@
+  180  git commit -m " resolved conflicts"
+  181  git branch
+  182  ls
+  183  git remote add origin https://github.com/PearlSithebe/git-basic-excercises.git
+  184  git push -u origin master
+  185  git push -u origin master
+  186  git remote add origin https://github.com/PearlSithebe/git-basic-excercises.git
+  187  git push -u origin master
+  188  git checkout history 
+  189  git push --set-upstream origin history 
+  190  git branch
+  191  git checkout milkshake-flavours 
+  192  git push --set-upstream origin milkshake-flavours 
+  193  git clone https://github.com/Umuzi-org/tech-department.git
+  194  cd tech-department/
+  195  cd 
+  196  pwd
+  197  cd git-basic-excercises/
+  198  git branch
+  199  git checkout master 
+  200  git remote -v
+  201  ls
+  202  cd Desktop/
+  203  cd ../
+  204  ls
+  205  cd Downloads/
+  206  ls
+  207  pwd
+  208  cd desktop
+  209  LS
+  210  ls
+  211  cd Desktop/
+  212  ls
+  213  cd C14\ 
+  214  cd C14\ CHALLANGES/. 
+  215  ls
+  216  node code
+  217  ls
+  218  pwd
+  219  node code
+  220  node -v
+  221  node --v
+  222  apt install node
+  223  install java
+  224  sudo apt install openjdk-8
+  225  clear
+  226  sudo add-apt-repository ppa:webupd8team/java
+  227  cleaf
+  228  clear
+  229  sudo apt update
+  230  sudo apt install oracle-java8-installer
+  231  sudo apt install oracle-java8-installerckear
+  232  clear
+  233  sudo add-apt-repository ppa:openjdk-r/ppa
+  234  sudo apt-get update && sudo apt-get install openjdk-8-jdk
+  235  sudo update-alternatives --config java
+  236  java -version
+  237  clear
+  238  tar xfz ~/Downloads/eclipse-inst-linux64.tar.gz
+  239  ~/Downloads/eclipse-installer/eclipse-inst
+  240  /home/recruit/robocode/robocode.sh
+  241  clear
+  242  cd /home/recruit/\
+  243  cd /home/recruit/
+  244  ls
+  245  cd robocode/ && ls
+  246  cd robots/
+  247  ls
+  248  cd pps
+  249  ls
+  250  javac Pearl
+  251  javac Pearl.java 
+  252  eclipse Pearl.java 
+  253  clear
+  254  pwd
+  255  ls
+  256  cd..
+  257  cd ..//
+  258  c..
+  259  cd ..
+  260  cd ../../
+  261  /home/recruit/robocode/robocode.sh
+  262  pwd
+  263  ls
+  264  cd Desktop/
+  265  ls
+  266  cd C14\ 
+  267  cd 'C14 CHALLANGES'/
+  268  ls
+  269  run website.html 
+  270  open website.html 
+  271  pwd
+  272  ls
+  273  cd website/
+  274  git init
+  275  git status
+  276  git remote add origin https://github.com/PearlSithebe/PearlSithebe.github.io.git
+  277  git push -u origin master
+  278  cd ../
+  279  git clone https://github.com/PearlSithebe/PearlSithebe.github.io.git
+  280  git status
+  281  cd PearlSithebe.github.io/
+  282  git status
+  283  git add .
+  284  git status
+  285  git commit -m "initial website commit"
+  286  git status
+  287  git push
+  288  pwd
+  289  ls
+  290  cd PearlSithebe.github.io/
+  291  ls
+  292  git status
+  293  git add
+  294  git add .
+  295  git status
+  296  git commit -m "changes"
+  297  git status
+  298  git push
+  299  pwd
+  300  git clone
+  301  git clone https://github.com/PearlSithebe/tdd-simple-calculator.git
+  302  pwd
+  303  cd tdd-simple-calculator/
+  304  git status 
+  305  git add .
+  306  git status
+  307  git commit -m "Simple calculator commit"
+  308  git push
+  309  ifconfig
+  310  pwd
+  311  ls
+  312  cd tdd-simple-calculator/
+  313  git status
+  314  git add .
+  315  git status
+  316  ls
+  317  cd tdd-simple-calculator2
+  318  ls
+  319  cd tdd-simple-calculator2
+  320  git init
+  321  ls
+  322  cd tdd-simple-calculator2
+  323  git clone https://github.com/PearlSithebe/tdd-simple-calculator2.git
+  324  git push
+  325  git status
+  326  git add .
+  327  git status
+  328  git commit -m "simple calculator part 2'
+  329  git commit -m "simple calculator part 2"
+  330  git status
+  331  ls
+  332  cd tdd-simple-calculator2
+  333  git status
+  334  git commit -m "simple calculator part 2"
+  335  git status
+  336  git push
+  337  cd tdd-simple-calculator
+  338  cd /
+  339  ls
+  340  cd Desktop/
+  341  git clone https://github.com/PearlSithebe/tdd-simple-calculator2.git
+  342  git status
+  343  cd tdd-simple-calculator2/
+  344  git status
+  345  ls
+  346  git status
+  347  git add .
+  348  git status
+  349  git commit -m "simple calculator part 2"
+  350  git status
+  351  git push
+  352  ls
+  353  cd tdd-simple-calculator2
+  354  git status
+  355  git add .
+  356  git status
+  357  git commit -m "simple calculator with jasmine"
+  358  git push
+  359  pwd
+  360  git status
+  361  git push
+  362  cd
+  363  pwd
+  364  ls
+  365  git clone https://github.com/PearlSithebe/tdd-simple-calculator2.git
+  366  cd tdd-simple-calculator2
+  367  git status
+  368  pwd
+  369  ls
+  370  cd tdd-simple-calculator2
+  371  git status
+  372  ls
+  373  cd tdd-simple-calculator2
+  374  git status
+  375  git add .
+  376  git commit -m "simple calculator part two with jasmine"
+  377  git status
+  378  git push
+  379  ls
+  380  git clone https://github.com/PearlSithebe/tdd-simple-calculator.git
+  381  ls
+  382  cd tdd-simple-calculator
+  383  git status
+  384  git add .
+  385  git commit -m "simple calculator withjasmine"
+  386  git status
+  387  git push
+  388  sudo update
+  389  sudo apt update
+  390  sudo apt upgrade
+  391  sudo apt update
+  392  ls
+  393  cd Desktop/
+  394  mkdir myProject
+  395  ls
+  396  pwd
+  397  ls 
+  398  cd Desktop/
+  399  ls
+  400  pwd
+  401  ls
+  402  cd Desktop/
+  403  cd myProject/
+  404  touch app.js
+  405  cd ..
+  406  mkdir myProject2
+  407  ls
+  408  cd myProject
+  409  cp app.js
+  410  cp app.js myProject2
+  411  cd
+  412  clear
+  413  ls
+  414  cd Desktop/
+  415  cd myProject
+  416  touch umuzi.txt recruits.txt cohort.txt
+  417  ls
+  418  nano umuzi.txt
+  419  cat umuzi.txt
+  420  nano recruits.txt  cohort.txt
+  421  nano recrits.txt
+  422  cat recruits.txt 
+  423  cat cohort.txt 
+  424  cat umuzi.txt recruit.txt cohort.txt
+  425  cat umuzi.txt recruits.txt cohort.txt
+  426  ls umuzi.txt/recruits.txt/cohort.txt > summary.txt
+  427  touch summary.txt
+  428  cat umuzi.txt recruits.txt cohort.txt > summary.txt
+  429  cat summary.txt 
+  430  clear
+  431  locate umuzi
+  432  locate umuzi > search_result.txt 
+  433  nano search_result.txt 
+  434  cd ..
+  435  ls
+  436  cd Documents/
+  437  touch pad.txt
+  438  cd ../Desktop
+  439  mkdir work
+  440  cd ..
+  441  cd Documents/
+  442  cp pad.txt work
+  443  cd ../Desktop/
+  444  cd work/
+  445  ls
+  446  cd work
+  447  ls
+  448  pwd
+  449  find . -name '.pdf'
+  450  find . -name '.pdf' > work
+  451  ls
+  452  cd work
+  453  ls
+  454  cd..
+  455  ls
+  456  cd..
+  457  cd Desktop/
+  458  ls
+  459  cd myProject
+  460  LS
+  461  ls
+  462  cp umuzi.txt myProject2
+  463  ls
+  464  cd ..
+  465  myProject2
+  466  ls
+  467  myProject2
+  468  cd myProject2
+  469  ls
+  470  cp umuzi.txt /myProject2
+  471  cp recruit.txt recruitcopy.txt
+  472  updateb
+  473  updatedb
+  474  nano
+  475  nano my_bio.txt
+  476  clear
+  477  git clone
+  478  git clone https://github.com/PearlSithebe/linux.git
+  479  git clone
+  480  git clone https://github.com/PearlSithebe/linux.git
+  481  ls
+  482  cd linux/
+  483  git status
+  484  git add .
+  485  git status
+  486  git commit -m "linux challenges"
+  487  git status
+  488  git push
+  489  git clone https://github.com/PearlSithebe/StringCalculator.git
+  490  ls
+  491  cd StringCalculator/
+  492  git status
+  493  git add .
+  494  git status
+  495  git commit -m "String calculator commit"
+  496  git status
+  497  git push
+  498  sudo apt update
+  499  sudo apt upgrade
+  500  pwd 
+  501  ls
+  502  git clone https://github.com/PearlSithebe/Grade-generator.git
+  503  ls 
+  504  cd Grade-generator/
+  505  git status
+  506  git add .
+  507  git status 
+  508  git commit -m "grade generator commit"
+  509  git status
+  510  git push 
+  511  ls
+  512  git clone https://github.com/PearlSithebe/StringCalculator.git
+  513  git clone
+  514  ls
+  515  git clone https://github.com/PearlSithebe/tdd-simple-calculator2.git
+  516  npm install
+  517  sudo apt update
+  518  sudo apt upgrade
+  519  ls
+  520  cd PearlSithebe.github.io/
+  521  git status
+  522  git add .
+  523  git commit -m "website edit"
+  524  git status
+  525  git push
+  526  git pull
+  527  git push
+  528  sudo apt update
+  529  sudo apt upgrade
+  530  git clone https://github.com/PearlSithebe/PasswordChecker.git
+  531  sudo apt update
+  532  node
+  533  pwd
+  534  cd Documents/
+  535  cd Node/
+  536  node index.js
+  537  cd.../
+  538  cd..
+  539  yes
+  540  pwd
+  541  cd Documents/
+  542  cd Node/
+  543  npm install express
+  544  node index.js
+  545  npm install -g firebase-tools
+  546  sudo npm cache clean -f
+  547  sudo npm install -g n
+  548  sudo n stable
+  549  node -v
+  550  npm install -g firebase-tools
+  551  sudo npm install firebase-tools
+  552  git clone https://github.com/Meggin/hello-world-pwa
+  553  firebase login
+  554  firebase init
+  555  sudo apt install snap
+  556  sudo snap install --classic code
+  557  exit
+  558  sudo snap install --classic code
+  559  cd ~/Downloads/
+  560  sudo chmod +x code_1.37.0-1565227985_amd64.deb 
+  561  ./code_1.37.0-1565227985_amd64.deb 
+  562  sudo apt update
+  563  sudo apt install snapd
+  564  sudo snap install --classic code
+  565  sudo apt update
+  566  sudo apt upgrade
+  567  sudo apt install snap
+  568  sudo apt install bluetooth
+  569  sudo snap install code --classic
+  570  mkdir Guy-Luyanda
+  571  ls
+  572  cd Guy-Luyanda/
+  573  ls
+  574  touch file.txt
+  575  ls
+  576  delete
+  577  rm file.txt 
+  578  ls
+  579  clear
+  580  code .
+  581  exit
+  582  pwd
+  583  ls
+  584  cd passwordchecker
+  585  cd
+  586  pwd
+  587  ls -la
+  588  clear
+  589  ls
+  590  cd ..
+  591  ls
+  592  cd recruit
+  593  pwd
+  594  rm -f guy-luyanda
+  595  ls
+  596  cd desktop
+  597  cd Desktop
+  598  ls
+  599  clear
+  600  pwd
+  601  ls
+  602  cd ..
+  603  ls
+  604  cd Downloads
+  605  ls
+  606  pwd
+  607  cd ..
+  608  ls
+  609  cd Guy-Luyanda
+  610  ls
+  611  ls -la
+  612  cd ..
+  613  rm Guy-Luyanda
+  614  rm -f Guy-Luyanda
+  615  clear
+  616  pwd
+  617  ls /
+  618  ls
+  619  ls /Downloads
+  620  clear
+  621  pwd
+  622  ls
+  623  ls /
+  624  mkdir tzingoni
+  625  ls
+  626  cd tzingoni
+  627  ls
+  628  cd ..
+  629  pwd
+  630  /home/tzingoni
+  631  cd ..
+  632  pwd
+  633  /home/tzingoni
+  634  cd recruit
+  635  cd tzingoni
+  636  /home/tzingoni
+  637  clear
+  638  pwd
+  639  cd ..
+  640  rm -rf tzingoni
+  641  ls
+  642  cd ..
+  643  pwd
+  644  cd recruit
+  645  pwd
+  646  cd ..
+  647  pwd
+  648  mkdir tzingoni
+  649  cd recruit
+  650  pwd
+  651  ls
+  652  mkdir tzingoni
+  653  ls
+  654  cd tzingoni
+  655  mkdir outer
+  656  cd outer
+  657  mkdir inner
+  658  cd inner
+  659  pwd
+  660  cd ..
+  661  cd outer
+  662  rm -rf inner
+  663  pwd
+  664  ls
+  665  cd ..
+  666  rm -rf outer
+  667  pwd
+  668  ls
+  669  mkdir -p outer/inner
+  670  cd outer
+  671  ls
+  672  cd inner
+  673  ls
+  674  cd /
+  675  pwd
+  676  cd home
+  677  cd recruit
+  678  pwd
+  679  cd /tzingoni/outer/inner
+  680  cd tzingoni/outer/inner
+  681  pwd
+  682  cd /home/recruit
+  683  pwd
+  684  cd /
+  685  cd home/recruit
+  686  ls
+  687  pwd
+  688  cd tzingoni
+  689  cd outer/inner
+  690  cd../../..
+  691  cd ../..
+  692  pwd
+  693  cd..
+  694  cd outer/inner
+  695  cd ../../..
+  696  pwd
+  697  cd tzingoni
+  698  cd ../../../tmp
+  699  ls
+  700  pwd
+  701  cd ..
+  702  pwd
+  703  cd home/recruit/tzingoni/outer/inner
+  704  cd /tmp
+  705  ls
+  706  cd ..
+  707  cd home
+  708  pwd
+  709  ls
+  710  cd guest
+  711  ls
+  712  cd Downloads
+  713  ls
+  714  ls -la
+  715  pwd
+  716  cd ../..
+  717  cd recruit/tzingoni
+  718  cd ~
+  719  pwd
+  720  ls
+  721  cd Downloads
+  722  ls
+  723  rm -rf Certified Matric Certificate.pdf
+  724  ls
+  725  ls -la
+  726  pwd
+  727  ls
+  728  clear
+  729  cd..
+  730  cd ..
+  731  pwd
+  732  cd tzingoni
+  733  cd ../..
+  734  pwd
+  735  ~/tzingoni
+  736  cd recruit
+  737  ~/tzingoni
+  738  clear
+  739  pwd
+  740  cd ..
+  741  ~/recruit
+  742  pwd
+  743  ~/tzingoni
+  744  pw
+  745  pwd
+  746  ls -l
+  747  ls
+  748  pwd
+  749  ls
+  750  cd tzingoni
+  751  ls
+  752  mkdir inner
+  753  ls
+  754  cd outer
+  755  touch mywork.js
+  756  ls
+  757  ls -la
+  758  cd ..
+  759  ls
+  760  cd outer
+  761  cat mywork.js
+  762  pwd
+  763  vim mywork.js
+  764  sudo apt install vim
+  765  apt install update
+  766  apt-get update
+  767  apt-get upgrade
+  768  y
+  769  clear
+  770  sudo apt update
+  771  sudo apt upgrade
+  772  sudo apt install vim
+  773  pwd
+  774  cd tzingoni
+  775  cd ..
+  776  cd tzingoni/outer/vim mywork.js
+  777  cd tzingoni/outer/
+  778  ls
+  779  vim mywork.js
+  780  cat mywork.js
+  781  ls
+  782  cd ..
+  783  ls
+  784  cd inner
+  785  touch home.html
+  786  vim home.html
+  787  cat home.html
+  788  cd ..
+  789  pwd
+  790  cd /
+  791  cd home
+  792  man ls
+  793  man cat
+  794  cd recruit/tzingoni/inner
+  795  vim home.html
+  796  cat home.html
+  797  cd ..
+  798  ls
+  799  cd tzingoni
+  800  ls
+  801  mkdir umuzi
+  802  mkdir mub
+  803  mkdir foo
+  804  ls
+  805  rmdir mub
+  806  ls
+  807  rmdir foo
+  808  ls
+  809  cd inner/
+  810  cd ..
+  811  cd tzingoni/
+  812  ls
+  813  cd umuzi/
+  814  touch linux.txt
+  815  touch challenges.txt
+  816  touch power.txt
+  817  ls
+  818  ls -la
+  819  cd ..
+  820  ls
+  821  mkdir temp
+  822  ls /umuzi
+  823  cd umuzi
+  824  ls
+  825  cd ..
+  826  mv power.txt temp/
+  827  cd umuzi
+  828  ls
+  829  mv power.txt temp/
+  830  pw
+  831  pwd
+  832  cd ..
+  833  ls
+  834  cd umuzi
+  835  ls
+  836  touch nonsense.js
+  837  ls
+  838  mv *.txt temp/
+  839  cd ..
+  840  mv *.txt temp/
+  841  cd ..
+  842  mv *.txt temp/
+  843  ls
+  844  cd tzingoni
+  845  ls
+  846  cd temp
+  847  ls
+  848  cd ..
+  849  pwd
+  850  cd umuzi
+  851  ls
+  852  mv *.txt temp/
+  853  mv *.txt tzingoni/
+  854  ls
+  855  cd ..
+  856  pwd
+  857  ls
+  858  cd temp/
+  859  touch printnumstr.c
+  860  vim printnumstr.c 
+  861  cat printnumstr.c 
+  862  gcc -Wall -Werror -Wextra
+  863  cat printnumstr.c 
+  864  clear
+  865  cd /
+  866  cd home
+  867  sudo apt install gcc
+  868  cd recruit/tzingoni/temp
+  869  ls
+  870  ./a.out
+  871  gcc
+  872  gcc -Wall -Werror -Wextra printnumstr.c
+  873  vim printnumstr.c 
+  874  gcc -Wall -Werror -Wextra printnumstr.c
+  875  vim printnumstr.c 
+  876  clear
+  877  pwd
+  878  ls
+  879  mkdir phathz
+  880  cd phathz
+  881  cd /
+  882  pwd
+  883  cd ~
+  884  pwd
+  885  cd
+  886  pwd
+  887  cd ..
+  888  cd home
+  889  ls
+  890  ls -l
+  891  ls -R
+  892  ls -lh
+  893  ls -l -t -r
+  894  man ls
+  895  man cd
+  896  man man
+  897  cd
+  898  cd home
+  899  cd /
+  900  cd home
+  901  ls
+  902  mkdir learning_unix
+  903  cd recruit
+  904  ls
+  905  mkdir learning_unix
+  906  cd
+  907  ls
+  908  ~
+  909  cd 1
+  910  cd l
+  911  cd learning_unix/
+  912  touch heaven.txt
+  913  touch earth.txt
+  914  ls
+  915  mkdir temp
+  916  mv heaven.txt temp/
+  917  mv earth.txt temp/
+  918  ls
+  919  ls temp/
+  920  touch rags
+  921  ls
+  922  mv rags temp/riches
+  923  ls temp/
+  924  mv temp/riches temp/rags
+  925  ls temp/
+  926  mkdir temp2
+  927  mv temp2 temp
+  928  ls temp/
+  929  mkdir temp3
+  930  mv temp3 temp2
+  931  ls temp2/
+  932  cd temp
+  933  ls
+  934  rm -i
+  935  rm -i earth.txt heaven.txt rags
+  936  ls
+  937  mkdir learning_unix/
+  938  mkdir learning_unix
+  939  cd learning_unix
+  940  touch file1
+  941  cp file1 file2
+  942  ls
+  943  cd temp
+  944  ls
+  945  rmdir temp2/temp3/
+  946  rmdir temp2/
+  947  cd
+  948  cd learning_unix
+  949  cd ..
+  950  cd learning_unix
+  951  cd temp
+  952  cd ..
+  953  rmdir temp
+  954  ls
+  955  cd temp
+  956  rmdir temp2/
+  957  ls
+  958  touch ~/file3
+  959  ls ~
+  960  ls ~ command_line_course file3 learning_unix linux_bootcamp
+  961  cp ~/file3 .
+  962  ls
+  963  ls .
+  964  ls ./
+  965  rm file*
+  966  man cp
+  967  man cp -r
+  968  echo "Call me Ishmael."
+  969  echo "Call me Ishmael." > opening_lines.txt
+  970  ls
+  971  echo less opening_lines.txt
+  972  less opening_lines.txt
+  973  echo "The promises were over." >> opening_lines.txt
+  974  cat opening_lines.txt
+  975  cat opening_lines.txt > file_copy.txt
+  976  rm file_copy.txt
+  977  ls opening_lines.txt
+  978  ls -l
+  979  wc opening_lines.txt
+  980  wc -l opening_lines.txt
+  981  nano -l opening_lines.txt
+  982  echo $USER learner
+  983  echo $HOME
+  984  echo $PATH
+  985  nano -l opening_lines.txt
+  986  grep was opening_lines.txt 
+  987  grep -v was opening_lines.txt 
+  988  nano -l opening_lines.txt
+  989  grep -v was opening_lines.txt 
+  990  grep all opening_lines.txt 
+  991  grep -i all opening_lines.txt 
+  992  grep in opening_lines.txt 
+  993  grep -w in opening_lines.txt 
+  994  grep -w o.. opening_lines.txt 
+  995  grep [aeiou]t opening_lines.txt 
+  996  grep -w -i [aeiou]t opening_lines.txt 
+  997  cd
+  998  cd learning_unix/
+  999  cd curl https://raw.githubusercontent.com/Blahah/command_line_bootcamp/master/testfiles/grades.txt > grades.txt
+ 1000  cd curl https://raw.githubusercontent.com/Blahah/command_line_bootcamp/master/testfiles/grades.txt > grades.txt less testfile.vcf
+ 1001  cd
+ 1002  curl https://raw.githubusercontent.com/Blahah/command_line_bootcamp/master/testfiles/grades.txt > grades.txt
+ 1003  testfile.vcf
+ 1004  cut -f 5 grades.txt 
+ 1005  cut -f -2,4-7,9 grades.txt > grades_no_cheaters.txt 
+ 1006  cut -f 3,8 grades.txt | paste grades_no_cheaters.txt - > sorted_grades.txt
+ 1007  cd learning_unix
+ 1008  grep was opening_lines.txt | sort | head 
+ 1009  grep was opening_lines.txt | sort | head -n 3 | wc -c
+ 1010  tail -n 20 opening_lines.txt | head
+ 1011  grep "^ATG" file.txt
+ 1012  grep "^ATG" opening_lines.txt 
+ 1013  tail -f 3 opening_lines.txt | sort -u
+ 1014  ls
+ 1015  pwd
+ 1016  mkdir workspace
+ 1017  cd
+ 1018  cd workspace
+ 1019  ls
+ 1020  touch linux_challenge.txt
+ 1021  cd linux_challenge.txt
+ 1022  echo "ls" > linux_challenge.txt
+ 1023  nano linux_challenge.txt
+ 1024  echo pwd >> linux_challenge.txt
+ 1025  nano linux_challenge.txt
+ 1026  ls
+ 1027  nano linux_challenge.txt
+ 1028  pwd
+ 1029  mkdir workspace
+ 1030  cd workspace
+ 1031  nano linux_challenge.txt
+ 1032  ls
+ 1033  touch README.md
+ 1034  cp README.md >> CHANGELOG.md
+ 1035  cp --help
+ 1036  cp README.md  CHANGELOG.md
+ 1037  ls
+ 1038  touch exercise.md
+ 1039  mv exercise.md /tmp
+ 1040  ls /tmp
+ 1041  pwd
+ 1042  cd
+ 1043  rm exercise.md
+ 1044  rm /workspace/exercise.md
+ 1045  rm /exercise.md
+ 1046  rm workspace/exercise.md
+ 1047  ls
+ 1048  rm workspace/exercise.md
+ 1049  ls workspace
+ 1050  touch umuzi.md
+ 1051  touch recruits.md
+ 1052  touch cohort.md
+ 1053  man cat
+ 1054  echo "I'm actually bored bra" >> umuzi.md
+ 1055  echo "I'm actually bored for real dawg" >> recruits.md
+ 1056  echo "I'm actually bored for real though bruv" >> cohort.md
+ 1057  cat umuzi.md recruits.md cohort.md 
+ 1058  cat umuzi.md recruits.md cohort.md > summary.md
+ 1059  nano summary.md 
+ 1060  cat summary.md 
+ 1061  locate umuzi
+ 1062  locate umuzi.md 
+ 1063  locate umuzi.md >> search_result.md
+ 1064  cd Documents
+ 1065  touch pad.md
+ 1066  mkdir work
+ 1067  rm -r work
+ 1068  ls
+ 1069  cd
+ 1070  mkdir work
+ 1071  ls
+ 1072  rm -r work
+ 1073  cd Desktop
+ 1074  mkdir work
+ 1075  cp ~/Documents/pad.md .
+ 1076  ls
+ 1077  mv pad.md pad_copy.md
+ 1078  ls
+ 1079  cp Documents/pad.md .
+ 1080  locate updatedb
+ 1081  cd -
+ 1082  cd Documents
+ 1083  cd Desktop
+ 1084  cd -
+ 1085  locate pad_copy.md
+ 1086  grep *.pdf 
+ 1087  locate '*.pdf'
+ 1088  find ~ *.pdf
+ 1089  find ~ "*.pdf"
+ 1090  locate '*.pdf'
+ 1091  locate '*.pdf' >> search_result.md 
+ 1092  cd Desktop
+ 1093  mkdir PhathuLC
+ 1094  cd PhathuLC
+ 1095  touch Findings.txt
+ 1096  cd Findings.txt
+ 1097  nano Findings.txt
+ 1098  cd
+ 1099  cd Desktop
+ 1100  rm -r PhathuLC
+ 1101  ls
+ 1102  cd
+ 1103  rm -r Guy-Luyanda
+ 1104  cp README.md >> CHANGELOG.mdmv exercise.md /tmp
+ 1105  find ~/ -name *.pdf
+ 1106  find ~/ -name *.pdf >> search_result.md 
+ 1107  find . -mtime -1 -print
+ 1108  nano my_bio.md
+ 1109  mkdir my_files
+ 1110  mv my bio.md my_files
+ 1111  mv my_bio.md my_files
+ 1112  cd my_files/
+ 1113  ls
+ 1114  mkdir git-basic-exercises
+ 1115  cd git-basic-exercises
+ 1116  ls -a
+ 1117  git init
+ 1118  ls -a
+ 1119  git status
+ 1120  touch README.md
+ 1121  git log
+ 1122  ls -a
+ 1123  git status
+ 1124  git log
+ 1125  git add README.md
+ 1126  git status
+ 1127  git reset HEAD ~/git-basic-exercises/
+ 1128  git reset HEAD ~/git-basic-exercises
+ 1129  git status
+ 1130  git commit -m "initial commit"
+ 1131  git log
+ 1132  q
+ 1133  nano README.md
+ 1134  cat README.md
+ 1135  git status
+ 1136  git commit -m "second commit"
+ 1137  git commit -a "second commit"
+ 1138  git add .
+ 1139  git commit -a "second commit"
+ 1140  git commit -m "second commit"
+ 1141  nano README.md
+ 1142  cat README.md
+ 1143  git status
+ 1144  git add .
+ 1145  git commit -m "second commit"
+ 1146  git status
+ 1147  git commit --ammend
+ 1148  git log
+ 1149  git commit --ammend
+ 1150  git commit --amend
+ 1151  git log
+ 1152  get checkout dfee755b39309ba664367809a403525c30bedbec
+ 1153  git checkout dfee755b39309ba664367809a403525c30bedbec
+ 1154  cat README.md 
+ 1155  git checkout master
+ 1156  cat README.md 
+ 1157  git branch
+ 1158  git checkout -b milkshake-flavours
+ 1159  git branch
+ 1160  nano milkshake.md
+ 1161  git status
+ 1162  git commit -m "added initial flavours"
+ 1163  git log
+ 1164  git commit -m "added initial flavours"
+ 1165  git status
+ 1166  ls
+ 1167  git checkout milkshake-flavours
+ 1168  git commit -m "added initial flavours"
+ 1169  git add .
+ 1170  git commit -m "added initial flavours"
+ 1171  git checkout master
+ 1172  git status
+ 1173  ls
+ 1174  git log
+ 1175  git checkout master
+ 1176  git status
+ 1177  git checkout -b history
+ 1178  git log
+ 1179  history > history.txt
